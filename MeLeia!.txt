@@ -1,0 +1,4 @@
+Para o Escritor de Redações 8000 funcionar, é necessario adicionar sua chave de API do chatgpt dentro do arquivo api.env.
+O arquivo api.env deverá ficar assim:
+
+OPENAI_API_KEY=sk-proj-......ka
