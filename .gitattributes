@@ -1,0 +1,5 @@
+*.py linguist-detectable=true
+*.py linguist-language=Python
+build/* linguist-vendored
+dist/* linguist-vendored
+*.spec linguist-vendored
