@@ -3,7 +3,7 @@ import time
 import keyboard
 from dotenv import load_dotenv
 from openai import OpenAI
-load_dotenv(dotenv_path=r"\api.env")
+load_dotenv()
 
 inn = input("Insira o tema da redação: ")
 client = OpenAI(
