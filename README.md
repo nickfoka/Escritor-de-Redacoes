@@ -1,5 +1,5 @@
 # Escritor-de-Redações
-Um programa escrito em python capaz de escrever redações através de IA, sendo possivel utilizar:
+Um programa escrito em python capaz de escrever redações através de IA, e escrever a redação em um site Anti-Cópia, sendo possivel utilizar:
 - Chat-gpt
 - Gemini
 
