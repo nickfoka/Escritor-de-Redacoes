@@ -7,6 +7,7 @@ Para utilizar o programa, insira sua(s) chave(s) API dentro do arquivo api.env.
 Exemplo:
 
 OPENAI_API_KEY=sk-.......aw
+
 GEMINI_API_KEY=Ars......jsk
 
 E execute!
