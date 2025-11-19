@@ -35,7 +35,9 @@ Um comparativo de tempo para fazer uma redação do mesmo tema:
 
 Site para a criação das APIs:
 OpenAI(Chat-gpt):
+
 https://platform.openai.com/welcome?step=create
 
 Gemini:
+
 https://aistudio.google.com/api-keys
