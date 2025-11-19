@@ -32,3 +32,10 @@ Um comparativo de tempo para fazer uma redação do mesmo tema:
 
 "Não foi possivel inciar o programa: Sem chave de API Gemini."
 - Isso quer dizer que foi escolhido usar o Gemini, mas não foi inserido a chave de API no arquivo api.env.
+
+Site para a criação das APIs:
+OpenAI(Chat-gpt):
+https://platform.openai.com/welcome?step=create
+
+Gemini:
+https://aistudio.google.com/api-keys
